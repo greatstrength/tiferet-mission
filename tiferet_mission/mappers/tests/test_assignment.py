@@ -6,7 +6,7 @@
 import pytest
 
 # ** app
-from tiferet.mappers.tests.settings import AggregateTestBase, TransferObjectTestBase
+from .settings import AggregateTestBase, TransferObjectTestBase
 from ..assignment import DeviceAssignmentAggregate
 from ..mission_sql import DeviceAssignmentSqlObject
 

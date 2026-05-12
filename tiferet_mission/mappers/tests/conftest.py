@@ -3,7 +3,7 @@
 # *** imports
 
 # ** app
-from tiferet.mappers.tests.settings import AggregateTestBase
+from .settings import AggregateTestBase
 
 # *** hooks
 
